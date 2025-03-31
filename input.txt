@@ -1,0 +1,3 @@
+learning python file writing and reading is fun
+i love software dev
+i hope to make it in the software dev field
